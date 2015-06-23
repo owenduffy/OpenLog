@@ -9367,7 +9367,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </class>
 </classes>
 <parts>
-<part name="C10" library="SparkFun-Capacitors" deviceset="0.1UF-25V(+80/-20%)(0603)" device="" value="0.1uF"/>
+<part name="C4" library="SparkFun-Capacitors" deviceset="0.1UF-25V(+80/-20%)(0603)" device="" value="0.1uF"/>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device=""/>
 <part name="GND25" library="SparkFun" deviceset="GND" device=""/>
 <part name="GND26" library="SparkFun" deviceset="GND" device=""/>
@@ -9424,7 +9424,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="2.54" y="13.462" size="1.778" layer="97">0.8mm Thin PCB</text>
 </plain>
 <instances>
-<instance part="C10" gate="G$1" x="48.26" y="139.7"/>
+<instance part="C4" gate="G$1" x="48.26" y="139.7"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="FRAME1" gate="V" x="147.32" y="0"/>
 <instance part="GND25" gate="1" x="40.64" y="132.08"/>
@@ -9493,7 +9493,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </segment>
 <segment>
 <wire x1="48.26" y1="134.62" x2="48.26" y2="137.16" width="0.1524" layer="91"/>
-<pinref part="C10" gate="G$1" pin="2"/>
+<pinref part="C4" gate="G$1" pin="2"/>
 <pinref part="GND26" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -9754,7 +9754,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <junction x="40.64" y="147.32"/>
 <pinref part="U2" gate="G$1" pin="OUT"/>
 <pinref part="P+12" gate="G$1" pin="3.3V"/>
-<pinref part="C10" gate="G$1" pin="1"/>
+<pinref part="C4" gate="G$1" pin="1"/>
 <pinref part="C1" gate="G$1" pin="1"/>
 <pinref part="TP1" gate="G$1" pin="1"/>
 <wire x1="55.88" y1="147.32" x2="48.26" y2="147.32" width="0.1524" layer="91"/>
