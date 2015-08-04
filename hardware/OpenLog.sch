@@ -9403,6 +9403,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND6" library="SparkFun" deviceset="GND" device=""/>
 <part name="TP1" library="SparkFun-Passives" deviceset="TEST-POINT" device="3"/>
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S"/>
+<part name="FID3" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
+<part name="FID4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
 </parts>
 <sheets>
 <sheet>
@@ -9492,6 +9494,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="NAME" x="66.04" y="159.512" size="1.778" layer="95"/>
 </instance>
 <instance part="LOGO2" gate="G$1" x="106.68" y="20.32"/>
+<instance part="FID3" gate="G$1" x="246.38" y="27.94"/>
+<instance part="FID4" gate="G$1" x="241.3" y="27.94"/>
 </instances>
 <busses>
 </busses>
