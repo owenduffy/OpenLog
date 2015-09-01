@@ -6825,6 +6825,9 @@ design rules under a new name.</description>
 <element name="LOGO120" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="209.931" y="102.362" smashed="yes"/>
 <element name="FID239" library="SparkFun-Aesthetics" package="MICRO-FIDUCIAL" value="FIDUCIALUFIDUCIAL" x="224.917" y="86.36" smashed="yes" rot="MR0"/>
 <element name="FID240" library="SparkFun-Aesthetics" package="MICRO-FIDUCIAL" value="FIDUCIALUFIDUCIAL" x="208.915" y="103.251" smashed="yes" rot="MR0"/>
+<element name="E$2" library="SparkFun-Retired" package="FIDUCIAL-1.5X3" value="" x="4.572" y="11.684" rot="MR0"/>
+<element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="228.219" y="13.208" rot="MR0"/>
+<element name="E$4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="228.219" y="97.79" rot="MR180"/>
 </elements>
 <signals>
 <signal name="GND" class="1">
